@@ -68,13 +68,10 @@
 <!-- https://icons8.com -->
 <div align="center">
 
-  <a href="https://facebook.com/trungquandev" target="blank">
+  <a href="https://facebook.com/LTV1603" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png"/>
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png"/>
-  </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
+  <a href="https://www.instagram.com/_long.thanh.vu/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png"/>
   </a>
   <a href="mailto:longthanhvu1603hn2@gmail.com" target="top">
